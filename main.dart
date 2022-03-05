@@ -30,15 +30,15 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
   int _selectedIndex = 0;
   static const List<Widget> _widgetOptions = <Widget>[
     Text(
-      'Home Page 119A3063',
+      'Home Page 119A3064',
       style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold),
     ),
     Text(
-      'Search Page 119A3063',
+      'Search Page ',
       style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold),
     ),
     Text(
-      'Profile Page 119A3063',
+      'Profile Page ',
       style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold),
     ),
   ];
